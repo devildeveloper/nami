@@ -1,23 +1,11 @@
 {
   "name": "Nami",
-  "description": "Gaia Chronometer Example App",
+  "description": "Gestiona tus tareas de la forma mas facil",
   "launch_path": "/",  
-  "developer": {
-    "name": "Miguel Aliaga <@devildeveloper>",
-    "url": "https://www.dropbox.com/sh/7a16advkdbb54zk/NyiZxDWNxX"
-  },
-  "installs_allowed_from": ["*"],
   "default_locale":"es",
-  "locales": {
-    "es": {
-      "name": "Nami",
-      "description": "Simple y sencillo gestor de tareas"
-    }  
-  },  
   "icons": {
     "128": "/icons/128.jpg",
     "48": "/icons/48.jpg",
     "16":"/icons/16.jpg"
-  },
-  "orientation": "portrait-primary"
+  }
 }
