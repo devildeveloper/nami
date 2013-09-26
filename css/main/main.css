@@ -1,0 +1,21 @@
+body > div[data-role='page'] {
+	background-image:url(../../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+body > div[data-role='page'] > div[data-role='content']{
+	background-color: rgba(255,255,255,.8);
+}
+body #perfil figure, figure + div{
+	display: inline-block;
+}
+body #perfil figure{
+	margin: 0px 10px 0px 0px; 
+}
+body #perfil figure img{
+	width: 100px;
+}
+body #perfil  figure + div {
+	vertical-align:top;
+}
+

@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# 2013-09-13 v1.0.0
+index.html
+css/main/main.css
+css/main/widul.min.css
+css/vendor/jquery.mobile.structure-1.3.2.min.css
+css/vendor/jquery.mobile.theme-1.3.2.min.css
+css/vendor/jquery.mobile-1.3.2.min.css
+
+img/ajax-loader.gif
+img/bg.jpg
+img/icons-18-black.png
+img/icons-18-white.png
+img/icons-36-black.png
+img/icons-36-white.png
+img/user.jpg
+js/main/main.js
+js/vendor/jquery.js
+js/vendor/jquery.mobile-1.3.2.js
