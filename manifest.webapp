@@ -1,39 +1,23 @@
 {
-  "name": "Widul",
+  "name": "Nami",
   "description": "Gaia Chronometer Example App",
-  "launch_path": "/index.html",
-  "appcache_path": "/manifest.appcache",
+  "launch_path": "/",  
   "developer": {
     "name": "Miguel Aliaga <@devildeveloper>",
     "url": "https://www.dropbox.com/sh/7a16advkdbb54zk/NyiZxDWNxX"
   },
   "installs_allowed_from": ["*"],
+  "default_locale":"es",
   "locales": {
-    "ar": {
-      "name": "Chrono",
-      "description": "Gaia Chronometer Example App"
-    },
-    "en-US": {
-      "name": "Chrono",
-      "description": "Gaia Chronometer Example App"
-    },
-    "fr": {
-      "name": "Chrono",
-      "description": "Gaia Chronometer Example App"
-    },
-    "zh-TW": {
-      "name": "Chrono",
-      "description": "Gaia Chronometer Example App"
-    },
-    "it": {
-      "name": "Cronometro",
-      "description": "Applicazione di Esempio Cronometro per Gaia"
-    }   
-  },
-  "default_locale": "en-US",
+    "es": {
+      "name": "Nami",
+      "description": "Simple y sencillo gestor de tareas"
+    }  
+  },  
   "icons": {
-    "120": "/icons/chrono-120.png",
-    "60": "/icons/chrono-60.png"
+    "128": "/icons/128.jpg",
+    "48": "/icons/48.jpg",
+    "16":"/icons/16.jpg"
   },
   "orientation": "portrait-primary"
 }
